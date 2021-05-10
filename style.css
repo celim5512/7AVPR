@@ -1,0 +1,27 @@
+.bu img{
+    width: 25em;
+    height: 25em;
+    margin-left: 30em;
+    margin-top: 3em;
+    
+}
+.ba{
+    width: 0em;
+    height: 0em;
+    border-left: 2.5em solid transparent;
+    border-right: 2.5em solid transparent;
+    border-top: 5em solid green;
+    margin-left: 40em;
+    position: ;
+}
+button{
+    width: 5em;
+    height: 2.5em;
+    margin-left: 35em;
+    background-color: orangered;
+    border-radius: 0.5em;
+    position: relative;
+}
+button:hover{
+    border: 0.5em solid coral;
+}
